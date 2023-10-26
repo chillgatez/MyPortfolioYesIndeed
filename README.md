@@ -18,7 +18,7 @@ Welcome to my software development portfolio, a showcase of my coding projects a
 
 ## Getting Started
 
-- Visit the [portfolio website](https://yourusername.github.io) to start exploring.
+- Visit the [portfolio website](https://chillgatez.github.io/MyPortfolioYesIndeed/) to start exploring.
 - Search for keywords to find projects that interest you.
 - Learn more about my background and recent accomplishments in the "Recent Searches" section.
 
